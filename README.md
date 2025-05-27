@@ -30,8 +30,8 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens**: `Python` `Lua` `Java` `VBA` `C++` `JavaScript` `HTML/CSS`  
-**Metodologias**: `Scrum` `PMBOK` `Kanban` `SAFe`  
-**Ferramentas**: `Git` `Jira` `CoppeliaSim` `Trello` `Confluence` `Notion`  
+**Metodologias**: `Scrum` `PMBOK` `Kanban` `SAFe` `Management 3.0`
+**Ferramentas**: `Git` `Jira` `CoppeliaSim` `Trello` `Confluence` `Notion` `Visual Studio`
 
 ### 📌 Projetos em Destaque
 
