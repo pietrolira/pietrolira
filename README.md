@@ -1,23 +1,21 @@
-<img src="https://pietrolira.com.br/Banner_GitHub.png" alt="Banner Pietro Lira" style="width:100%; border-radius: 12px;"/>
-
 # Eu sou Pietro Lira  
 ### Analista de Sistemas • Gestão de Projetos • Tecnologia  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pietrolira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:30px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
   <a href="https://wa.me/5584988349913" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:30px"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
   <a href="https://www.instagram.com/pietrolira/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:30px"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
   <a href="https://www.pietrolira.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius:30px"/>
+    <img src="https://img.shields.io/badge/Site-000000?style=flat&logo=Google-Chrome&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
-  <a href="mailto:contato@pietrolira.com.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:30px"/>
+  <a href="mailto:contato@pietrolira.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
 </div>
 
