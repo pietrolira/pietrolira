@@ -15,9 +15,8 @@
     <img src="https://img.shields.io/badge/Site-000000?style=flat&logo=Google-Chrome&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
   <a href="mailto:contato@pietrolira.com.br">
-  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" style="border-radius: 12px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=minutemailer&logoColor=white" style="border-radius: 12px; margin: 5px;" />
 </a>
-
 </div>
 
 ### 👨‍💼 Sobre Mim
