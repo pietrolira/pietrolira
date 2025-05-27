@@ -51,8 +51,8 @@
 ### 🎓 Formação & Certificações
 
 - 👨‍🎓 Graduações: Administração, Pedagogia, Sistemas para Internet  
-- 🎓 Pós-graduações: Gestão de Projetos, TI, Governança, RH  
-- 🧠 Certificações: PMBOK, Agile Scrum, Gestão Estratégica  
+- 🎓 Pós-graduações: Gestão de Projetos, TI, Governança, RH, Pessoas  
+- 🧠 Certificações: Agile Scrum, Gestão Estratégica, Management 3.0  
 
 ### 📬 Entre em Contato
 
