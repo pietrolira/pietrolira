@@ -14,9 +14,10 @@
   <a href="https://www.pietrolira.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Site-000000?style=flat&logo=Google-Chrome&logoColor=white" style="border-radius: 12px; margin: 5px;" />
   </a>
-  <a href="mailto:contato@pietrolira.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" style="border-radius: 12px; margin: 5px;" />
-  </a>
+  <a href="mailto:contato@pietrolira.com.br">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+
 </div>
 
 ### 👨‍💼 Sobre Mim
