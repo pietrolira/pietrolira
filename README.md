@@ -1,28 +1,66 @@
-<h1 align="center">👋 Eu sou Pietro Lira</h1>
-<h3 align="center">💼 Analista de Sistemas / Gestão de Projetos / Tecnologia</h3>
+<img src="https://pietrolira.com.br/Banner_GitHub.png" alt="Banner Pietro Lira" style="width:100%; border-radius: 12px;"/>
+
+# Eu sou Pietro Lira  
+### Analista de Sistemas • Gestão de Projetos • Tecnologia  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pietrolira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:30px"/>
   </a>
   <a href="https://wa.me/5584988349913" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:30px"/>
   </a>
   <a href="https://www.instagram.com/pietrolira/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:30px"/>
   </a>
   <a href="https://www.pietrolira.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Site-000000?style=flat&logo=Google-Chrome&logoColor=white" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius:30px"/>
   </a>
-  <a href="mailto:contato@pietrolira.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" style="border-radius: 12px; margin: 5px;" />
+  <a href="mailto:contato@pietrolira.com.br">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:30px"/>
   </a>
 </div>
 
-### 🧾 Resumo Profissional
+### 👨‍💼 Sobre Mim
 
-Profissional com mais de 18 anos de experiência nas áreas de Tecnologia da Informação e Gestão de Projetos, atuando em empresas de grande porte. Especialista em gerenciamento de equipes, portfólios e projetos com metodologias tradicionais (PMBOK) e ágeis (Scrum, Kanban, SAFe). Conhecimento robusto em sistemas, análise de negócios, implantação de soluções e liderança de times multidisciplinares.  
+- 🎓 Mestrando em Engenharia Elétrica e da Computação – UFRN (conclusão em 2026)  
+- 💼 Mais de 18 anos de experiência em TI, Gestão de Projetos e Equipes  
+- 📊 Atuação com metodologias como PMBOK, Scrum, Ágil, SAFe e projetos híbridos  
+- 🔧 Experiência em liderança, portfólio, implantação de sistemas e soluções digitais  
+- 🌐 Disponível para projetos e posições remotas no Brasil e exterior  
 
-Graduado em Sistemas para Internet e Administração. Possui diversas pós-graduações e atualmente é mestrando em Engenharia Elétrica e da Computação pela UFRN.
+### 🛠️ Tecnologias e Ferramentas
 
-🔍 Quer saber mais? Visite meu [site pessoal](https://www.pietrolira.com.br) ou conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pietrolira/).
+**Linguagens**: `Python` `Lua` `Java` `VBA` `C++` `JavaScript` `HTML/CSS`  
+**Metodologias**: `Scrum` `PMBOK` `Kanban` `SAFe`  
+**Ferramentas**: `Git` `Jira` `CoppeliaSim` `Trello` `Confluence` `Notion`  
+
+### 📌 Projetos em Destaque
+
+- 🤖 [Controlador de Posição Polinomial no CoppeliaSim](https://github.com/pietrolira)  
+  *Simulação com robô Pioneer 3DX, trajetória interpolada e gráficos em tempo real.*
+
+- 📊 [Dashboard Ágil em Python + Plotly](https://github.com/pietrolira)  
+  *Indicadores de produtividade e status de sprint de forma visual.*
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pietrolira&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrolira&layout=compact&theme=tokyonight"/>
+</div>
+
+### 🎓 Formação & Certificações
+
+- 👨‍🎓 Graduações: Administração, Pedagogia, Sistemas para Internet  
+- 🎓 Pós-graduações: Gestão de Projetos, TI, Governança, RH  
+- 🧠 Certificações: PMBOK, Agile Scrum, Gestão Estratégica  
+
+### 📬 Entre em Contato
+
+📧 **E-mail:** contato@pietrolira.com.br  
+🌐 **Website:** [https://pietrolira.com.br](https://pietrolira.com.br)  
+📱 **WhatsApp:** [Clique aqui](https://wa.me/5584988349913)
+
+
+> 💡 *Este perfil está sempre evoluindo. Volte em breve para mais atualizações!*
