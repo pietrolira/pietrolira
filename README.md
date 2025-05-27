@@ -19,6 +19,7 @@
 </a>
 </div>
 
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
 ### 👨‍💼 Sobre Mim
 
 - 🎓 Mestrando em Engenharia Elétrica e da Computação – UFRN (conclusão em 2026)  
@@ -26,6 +27,7 @@
 - 📊 Atuação com metodologias como PMBOK, Scrum, Ágil, SAFe e projetos híbridos  
 - 🔧 Experiência em liderança, portfólio, implantação de sistemas e soluções digitais  
 - 🌐 Disponível para projetos e posições remotas no Brasil e exterior  
+</div>
 
 ### 🛠️ Tecnologias e Ferramentas
 
